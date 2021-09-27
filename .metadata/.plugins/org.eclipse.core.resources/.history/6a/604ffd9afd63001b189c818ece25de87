@@ -1,0 +1,5 @@
+package factory.method.pattern;
+
+public class FactoryMethodPattern {
+
+}
